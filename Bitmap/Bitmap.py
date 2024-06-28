@@ -45,7 +45,7 @@ if __name__ == "__main__":
 
     """
 
-    print('Bitmap Message, by Al Sweigart al@inventwithpython.com')
+    print('Bitmap Message')
     print('Enter the message to display with the bitmap.')
     message = input('> ')
 
